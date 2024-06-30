@@ -2,6 +2,12 @@ package Semana_4;
 
 import javax.swing.*;
 
+/*
+ * Autor: Oswald Reid Villalobos
+ * Clase: Estructura de Datos [SC-304]
+ * Profesor: Solis Muñoz Luis Fernando
+ * */
+
 public class Home {
 
     public static void main(String[] args) {
